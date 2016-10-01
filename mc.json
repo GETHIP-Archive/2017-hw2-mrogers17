@@ -1,0 +1,10 @@
+{
+    "firstName":"Mary Clare",
+    "lastName":"Rogers",
+    "age":17,
+    "picture": "https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=imgres&cd=&cad=rja&uact=8&ved=0ahUKEwiT2-qf_rnPAhUI_4MKHYe4CNIQjRwIBw&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DIkw5HhxC5UM&psig=AFQjCNGLLdIh2DVIVSjlW2xjClPN4Cv_vA&ust=1475424375550021",
+    "nickNames": [
+        {"nick": "MC-hammer"},
+        {"nick": "Clare Mary"}
+    ]
+}
