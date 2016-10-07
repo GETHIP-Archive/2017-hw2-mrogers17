@@ -4,8 +4,10 @@ $(document).ready(function() {
     $("#profile-name").text(data.firstName + " " + data.lastName);
     $("#age").text(data.age);
     $("#profile-picture").attr("src", data.picture);
+    $("#highschool").text(data.highschool);
     $.each(data.nickNames, function(key, value){
       $("#nicknames").append("<li>" + value.nick + "</li>");
     });
+
   });
 });
